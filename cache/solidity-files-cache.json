@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\mso10\\Desktop\\Supplychain-track-main\\Supplychain-track-main\\contracts\\SupplyChain.sol": {
+      "lastModificationDate": 1692196662456,
+      "contentHash": "e2c2eaa07a0963886350fa5836c09298",
+      "sourceName": "contracts/SupplyChain.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">= 0.8.0"
+      ],
+      "artifacts": [
+        "Supplychain"
+      ]
+    }
+  }
+}
